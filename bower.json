@@ -1,0 +1,22 @@
+{
+  "name": "troopjs-contrib-forward",
+  "main": "component.js",
+  "description": "TroopJS Contributed Forward",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules"
+  ],
+  "dependencies": {
+    "troopjs": "^3",
+    "mu-merge": "^0",
+    "jquery": ">=1.8.1 <4",
+    "poly": "^0.6"
+  },
+  "devDependencies": {
+    "requirejs": "^2.1"
+  }
+}
